@@ -1,2 +1,0 @@
-# Monee
-Gerenciador de Finanças
